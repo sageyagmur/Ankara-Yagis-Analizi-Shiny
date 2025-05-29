@@ -38,6 +38,12 @@ Uygulama aşağıdaki analiz modüllerini içermektedir:
 **Örnek 2: Korelasyon Isı Haritası**
 ![image](https://github.com/user-attachments/assets/97479cab-354e-4d4d-85b6-71c523c048a1)
 
+**Örnek 3: Kümeleme**
+![image](https://github.com/user-attachments/assets/7ff28151-45a6-4918-b10b-ebc782546661)
+
+**Örnek 4: Aykırı Yıl Analizi**
+![image](https://github.com/user-attachments/assets/c2050f9f-88b2-4615-bc54-3475430bbde6)
+
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
