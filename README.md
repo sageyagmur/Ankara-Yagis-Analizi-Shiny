@@ -34,12 +34,11 @@ Uygulama aşağıdaki analiz modüllerini içermektedir:
 **Örnek 1: Ana Gösterge Paneli**
 ![image](https://github.com/user-attachments/assets/29761d4b-38af-4b9a-a206-62cfb8fbc954)
 
-
 **Örnek 2: Korelasyon Isı Haritası**
 ![image](https://github.com/user-attachments/assets/97479cab-354e-4d4d-85b6-71c523c048a1)
 
 **Örnek 3: Kümeleme**
-![image](https://github.com/user-attachments/assets/7ff28151-45a6-4918-b10b-ebc782546661)
+![image](https://github.com/user-attachments/assets/1b4d4d51-5b27-44fa-893c-707aebdf9b5f)
 
 **Örnek 4: Aykırı Yıl Analizi**
 ![image](https://github.com/user-attachments/assets/c2050f9f-88b2-4615-bc54-3475430bbde6)
